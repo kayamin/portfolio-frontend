@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 
-const config = require('../config')
+import config from '../config'
 
 
 class Index extends React.Component {
